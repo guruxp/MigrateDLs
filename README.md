@@ -33,4 +33,5 @@ It will process every DL listed on the CSV file and will do the following:
 
 ## EXAMPLE
     .\MigrateDLs.ps1 -CSV c:\Temp\myCSV.csv -LogPath C:\Temp
-    This will import the specified CSV file and migrate the DL's listed there. For every one of them, their properties and the process details will be stores ont he specified path for logging.
+
+This will import the specified CSV file and migrate the DL's listed there. For every one of them, their properties and the process details will be stores ont he specified path for logging.
